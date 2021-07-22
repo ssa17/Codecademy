@@ -1,1 +1,1 @@
-//Projects created during the Codecademy courses
+//Projects created on Codecademy courses
